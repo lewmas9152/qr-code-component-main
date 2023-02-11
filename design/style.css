@@ -1,0 +1,22 @@
+*::before,*::after{
+    box-sizing:border-box ;
+    margin:0 ;
+}
+.card{
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin: 45rem;
+    padding: 15px;
+    background-color:red;
+    
+}
+.img{
+    max-width: 100;
+    width:100;
+}
+.header{
+    color:hsl(218, 44%, 22%);
+}
+    
+
+
